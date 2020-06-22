@@ -1,12 +1,12 @@
 @font-face {
     font-family: "kiskuki";
-    src: url(/Fonts/static/Oswald-Regular.ttf);
+    src: url(/IT-Courses/CSS-Class/Fonts/MuseoModerno/MuseoModerno-Regular.ttf);
     font-weight: 500;
 }
 
 @font-face {
     font-family: "kiskuki-lájt";
-    src: url(/Fonts/static/Oswald-ExtraLight.ttf);
+    src: url(/IT-Courses/CSS-Class/Fonts/Oswald/Oswald-Regular.ttf);
     font-weight: 200;
 }
 
