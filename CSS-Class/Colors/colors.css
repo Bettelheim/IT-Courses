@@ -1,0 +1,13 @@
+#colorDiv {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(99, 161, 241, 0.5);
+    text-align: center;
+}
+
+html {
+    background-color: #c0c0c0;
+    background-image: url(../IMG/pattern-stripe.jpg);
+    background-repeat: repeat-x;
+}
