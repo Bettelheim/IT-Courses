@@ -105,13 +105,3 @@ body {
 		width: 100%;
 	}
 }
-{
-    // "Jetbrains Mono" font family OR
-    "editor.fontFamily": "Jetbrains Mono",
-    // "Operator Mono" font family AND
-    "editor.fontFamily": "Operator Mono",
-    // Enables font ligatures
-    "editor.fontLigatures": true,
-}
-
-Consolas, 'Courier New', monospace
