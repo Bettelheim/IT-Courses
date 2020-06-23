@@ -1,16 +1,16 @@
-/* @font-face {
-    font-family: "kiskuki";
-    src: url(/IT-Courses/CSS-Class/Fonts/MuseoModerno/MuseoModerno-Regular.ttf);
-    font-weight: 500;
+@font-face {
+	font-family: "kiskuki";
+	src: url(/IT-Courses/CSS-Class/Fonts/MuseoModerno/MuseoModerno-Regular.ttf);
+	font-weight: 500;
 }
 
 @font-face {
-    font-family: "kiskuki-lájt";
-    src: url(/IT-Courses/CSS-Class/Fonts/MuseoModerno/MuseoModerno-Regular.ttf);
-    font-weight: 200;
+	font-family: "kiskuki-lájt";
+	src: url(/IT-Courses/CSS-Class/Fonts/MuseoModerno/MuseoModerno-Regular.ttf);
+	font-weight: 200;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=MuseoModerno&display=swap'); */
+@import url("https://fonts.googleapis.com/css2?family=MuseoModerno&display=swap");
 
 html {
 	text-transform: none;
