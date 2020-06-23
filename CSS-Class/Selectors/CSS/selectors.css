@@ -1,46 +1,46 @@
 body {
-    background-image: url(/IT-Courses/CSS-Class/IMG/pattern-stripe.jpg);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-image: url(/IT-Courses/CSS-Class/IMG/pattern-stripe.jpg);
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .login-div {
-    padding: 15px;
-    box-shadow: 1px 1px 4px;
-    display: inline-block;
+	padding: 15px;
+	box-shadow: 1px 1px 4px;
+	display: inline-block;
 }
 
 .login-div input {
-    padding: 3px;
-    display: block;
-    margin-bottom: 8px;
+	padding: 3px;
+	display: block;
+	margin-bottom: 8px;
 }
 
 [type="email"] {
-    border: dashed 1px #11abf3;
+	border: dashed 1px #11abf3;
 }
 
 [type="password"] {
-    border: dashed 1px #11abf3;
+	border: dashed 1px #11abf3;
 }
 
 button:hover {
-    box-shadow: 0 0 5px;
-    cursor: pointer;
+	box-shadow: 0 0 5px;
+	cursor: pointer;
 }
 
 input:focus {
-    padding: 10px;
-    border: #11abf3;
+	padding: 10px;
+	border: #11abf3;
 }
 
 ul li:first-child {
-    color: red;
+	color: red;
 }
 
 ul li:last-child {
-    text-decoration: underline;
+	text-decoration: underline;
 }
 
 ul li:nth-child(2) {
-    color: royalblue;
+	color: royalblue;
 }
