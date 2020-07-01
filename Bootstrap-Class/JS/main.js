@@ -34,6 +34,6 @@ const updatePrice = ({ target: { value } }) => {
 	price = amount * uPrice;
 
 	output.innerHTML = price;
-};
+}; */
 
-getInitialPrice(); */
+getInitialPrice();
