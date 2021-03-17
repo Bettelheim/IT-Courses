@@ -1,0 +1,238 @@
+Juhász Norbert - Evo
+Molnár György - Evo
+Selling István - Evo -> fejlesztő, 2019-től SM
+Molnár Róbert - Evo
+Vámos-Szabó Ágnes - BBraun
+
+---
+Alkalmazások
+
+www.menti.com -> random kérdéseket lehet vele bedobni
+
+
+---
+Témák
+
+
+Lehetséges-e a Scrum otthonról?
+
+Távoli csapat csekklista
+
+Az akadály - workshop
+
+Lean veszteségek típusai és ellenszereik
+
+Swarming
+
+Egy fegyver a multitasking ellen
+
+Mik lehetnek a virtuális csapatszobánkban
+
+Speed boat - egy futurespective workshop a boldogabb csapatért
+
+Mit tehet az SM és a PO a csapatért
+
+Csapatszabályok
+
+Kommunikáció és csapatszellem
+
+---
+
+Akadály bármi, ami lelassítja a csapatot!
+
+Akadály workshop -> Akadály példák - Akadály nálunk
+
+Blocker vs lassító
+Tünet vs ok
+Hal vs víz
+Elhárítható vs nem elhárítható
+
+Akadályokat, mint szervezeti adottságot nem kell elfogadni!
+
+---
+
+Lean SW developing
+
+Manufacturing waste - Parallel SW waste
+
+Inventory - Partially Done Work
+Overproduction - Extra Features -> aláírásra kell várni
+Extra-processing - Relearning
+Transportation - Handoffs -> munka átadásnál veszteségek
+Waiting - Delays -> Információra várás
+Motion - Task switching -> Félbe hagyott feladatok
+Defects - Defects
+
+Task switching
+
+Megzavarják a kollégát
+Nem volt kellő elemzés a feladat megkezdése előtt
+A csapat egyszerre több projekten dolgozik
+Nincs kellő koordináció a PO és a DEV Team között
+
+Elhárítás
+
+Jó planning
+SLA - Service-level Agreement
+Mérés, forintosítás
+Ne zavarj!
+Notik kikapcsolása
+Meetingek tömbösítése
+Priorizált backlog
+Csak egy gyors kérdés negligálása
+Swarming -> https://medium.com/agile-outside-the-box/swarming-a-team-based-approach-to-getting-work-done-1434243f38b8
+
+---
+
+Egy fegyver a multitasking ellen
+
+Feltartottak kosár
+
+Ha olyan munkát kell csinálnod, ami nem volt a sprintbe tervezve, akkor írd le egy cetlire és tedd bele abba a kosárba, ahonnan a feladat érkezett!
+
+PO - CPO - Másik csapat - Egyéb
+
+Fókusz?
+
+Magadon kezd a változást! -> önfegyelem, priorizálás, két lábbal szavazás
+
+---
+
+Mik lehetnek a virtuális csapatszobánkban?
+
+A vizualitás hatalma
+
+Háborús szoba - War Room
+Jobban emlékezünk, hamarabb megtaláljuk
+Ami elavult, azt hamarabb észrevesszük és frissítjük
+
+Csapat concept board -> Miro
+
+Way of Working
+Definition of Ready
+Definition of Done
+Kudo fal -> Ha valami különleges történt, amit meg szeretnél köszönni, bedobni ötletként, megdícsérni, vagy kiakadni, akkor írj egy cetlit ide. Ötlet - Köszönöm - Szép munka - Horror
+Vision
+Story Map
+Project Release Burnup
+Sprint Burndown
+Weather Forecast
+Daily Health Check -> Világos számodra, hogy ki mit fog ma csinálni annak érdekében, hogy elérjük a Sprint célját?
+Improvement Kanban - Retrórol jött feladatok
+
+DoR - milyen körülmények között fogadunk be egy feladatot a Sprintbe?
+
+---
+
+Speed boat - egy futurespective workshop a boldogabb csapatért - 90 perc
+
+Jó fuvallat
+Szikla
+Horgony
+Sziget
+Hajó
+
+Jó csapat
+
+Csapatnak saját indentitás kialakítása
+
+Kell egy cél
+Kell egy terv
+Terv nélkü a cél csak egy kívánság!
+
+Retró előtt: futurespective
+
+Megágyazunk az előttünk lévő projektnek
+Csapatcélokat határozunk meg közösen
+Kockázatban való gondolkodás -> jövőbeli esemény ha bekövetkezik, akkor annak negatív hatása van
+Hatás - Erőfeszítés mátrix - Nagy-kis = igen, Kis-kis = talán, Nagy-nagy = igen, Nagy-kis = nem
+
+---
+
+Mit tehet az SM és a PO a csapatért
+
+SM
+
+Egyéni coaching
+Tanítás, mentorálás
+Kutatás
+Események előkészítése - online események előkészítése nagy meló
+PO támogatása
+
+1on1
+
+Titoktartás
+Aktív hallgatás
+Közös jegyzet
+Agenda
+Rendszeresség (2 hetente 30 perc)
+Bizalom és kapcsolatépítés
+Fejlődés -> cél
+
+Ne csináld 1on1
+
+Projektről beszélni
+Faggatás
+Csináld ezt!
+Majd én megoldom...
+Ha gond lesz, majd akkor beszélünk...
+
+PO
+
+Ügyfél és stakeholder kapcsolat
+Backlog gondozás
+Kéznél van a csapatnak (válaszok, swarming)
+
+Tiszta Backlog
+
+    A munkát a csapat azonnal meg tudja kezdeni
+    A leszállítandónak van értéke
+    A PO és a fejlesztők megbeszélték
+    A fejlesztők megbecsülték
+    Tesztelhető, és a PO meg is határozott teszteket hozzá
+    A Csapat megfelelően feldarabolta
+
+Akkor Ready, ha egy Sprint feltőtéséhez elegendő ilyen feladat van.
+
+Backlog
+
+    Mindenki hozzáfér függetlenül attól, hogy hol van
+    Még világosabbnak kell lennie az elemeknek mint egyébként, mert nehézkesebb a beszélgetés online
+    Refinementre mindenkit össze kell hozni - valóban foglalkozzanak a munkával és egymással
+    Ne hagyd a DoR-t felpuhulni! Távmunka - több fegyelem
+
+Way of Working
+
+Miért jó?
+
+Gördülékeny probléma kezelés
+Mindenki által elfogadott módon történik ez
+Egyeztetjük, hogy mit várunk el magunktól és a többiektől
+Távmunkánál több figyelmet kell fordítanunk a kommunikációra
+
+Értékek
+
+Támogatóak, kommunikatívak maradunk még ha nem is egy helyen ülünk
+Szemtől-szembe beszélgetünk a kérdésekről, kétségekről nem a menedzsmenten keresztül
+Stand-upon bekapcsoljuk a kamerát
+
+Konfliktus
+
+Minden érintettet bevonunk
+Konfliktus az is ami engem frusztrál
+Csak olyat mondunk a másikról a háta mögött, amit már elmondtunk neki
+Konfliktus esetén figyelmeztetjük egymást a közös célra
+Akkor gondolunk lezártnak egy konfliktust, ha...
+
+Közös szabályrendszert közösen is változtatunk.
+
+---
+
+Kommunikáció és csapatszellem
+
+Távmunkában a csapat ne legyen több mint 5 fő.
+Kommunikációs csatornák száma sokszorozódik
+
+Csapat boldogságának mérése
+
+Humán aspektus hangsúlyozása
